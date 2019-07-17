@@ -1,0 +1,6 @@
+C:\yxwang\Source Code\Demo\WCFDemo\Client\bin\Debug\Client.exe.config
+C:\yxwang\Source Code\Demo\WCFDemo\Client\bin\Debug\Client.exe
+C:\yxwang\Source Code\Demo\WCFDemo\Client\bin\Debug\Client.pdb
+C:\yxwang\Source Code\Demo\WCFDemo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\yxwang\Source Code\Demo\WCFDemo\Client\obj\Debug\Client.exe
+C:\yxwang\Source Code\Demo\WCFDemo\Client\obj\Debug\Client.pdb

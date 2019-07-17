@@ -1,0 +1,10 @@
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\bin\Debug\Hosting.exe.config
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\bin\Debug\Hosting.exe
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\bin\Debug\Hosting.pdb
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\bin\Debug\Contracts.dll
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\bin\Debug\Services.dll
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\bin\Debug\Contracts.pdb
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\bin\Debug\Services.pdb
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\obj\Debug\Hosting.exe
+C:\yxwang\Source Code\Demo\WCFDemo\Hosting\obj\Debug\Hosting.pdb

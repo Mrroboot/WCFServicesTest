@@ -1,0 +1,5 @@
+C:\yxwang\Source Code\Demo\WCFDemo\Contracts\bin\Debug\Contracts.dll
+C:\yxwang\Source Code\Demo\WCFDemo\Contracts\bin\Debug\Contracts.pdb
+C:\yxwang\Source Code\Demo\WCFDemo\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\yxwang\Source Code\Demo\WCFDemo\Contracts\obj\Debug\Contracts.dll
+C:\yxwang\Source Code\Demo\WCFDemo\Contracts\obj\Debug\Contracts.pdb
